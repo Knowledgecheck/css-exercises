@@ -1,5 +1,5 @@
 .oddnumber {
-    background-color: light #ff0000/#ffc0cb;
+    background-color: #ffb6c1;
     font-family: Verdana, "DejaVu sans", sans-serif;
 }
 
@@ -13,7 +13,7 @@
 }
 
 #evennumber2 {
-    background-color: light #008000;
+    background-color: #90ee90;
     font-size: 24px;
     font-weight: bold;
 }
